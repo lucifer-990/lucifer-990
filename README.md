@@ -1,6 +1,6 @@
  ## <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there 👋 I'm Subhajit shaw <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><h1/>
-  <p>I'm a passionate web developer with a focus on Next.js and modern web technologies.
-  I love building scalable and efficient applications, and I'm always exploring new ways to improve my skills.<p/>
+  <p>I'm a passionate web developer with a focus on Next.js and modern web technologies.<p/>
+  <p></p>I love building scalable and efficient applications, and I'm always exploring new ways to improve my skills.<p/>
   
    ## About me
    <h2>🔥 What I Do:</h2>
