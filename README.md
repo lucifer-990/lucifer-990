@@ -44,6 +44,15 @@
   <img src="https://github.com/lucifer-990/lucifer-990/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
+###  Latest Blog Posts
+
+-  [Understanding Git & GitHub](https://portfolio-bay-one-88.vercel.app/686f6e9ad274318bf56be00a)
+-  [The Future of Web Development in this AI era: A Developer’s Insight](https://portfolio-bay-one-88.vercel.app/686f6e6ea203058de68c9166)
+-  [Getting Started with Socket.io in MERN](https://yourblogsite.com/blog/socket-io-setup)
+-  [From Divs to Databases: My Web Dev Journey](https://portfolio-bay-one-88.vercel.app/686f4f5fbb1565dd3b42251a)
+-  [All blogs](https://portfolio-bay-one-88.vercel.app/#blog)
+
+
 
 
 ###  Fun Fact:
