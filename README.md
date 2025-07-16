@@ -1,56 +1,53 @@
- ## <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there 👋 I'm Subhajit shaw <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><h1/>
-  <p>I'm a passionate web developer with a focus on Next.js and modern web technologies.<p/>
-  <p></p>I love building scalable and efficient applications, and I'm always exploring new ways to improve my skills.<p/>
-  
-   ## About me
-   <h2>🔥 What I Do:</h2>
-   <ul>
-     <li>
-       🏗 Building dynamic web applications with Next.js
-     </li>
-     <li>
-       🔌 Developing real-time applications with Socket.io
-     </li>
-     <li>
-       🌱 Learning more about backend development and system architecture
-     </li>
-     <li>
-       📚 Learning Data Structures and Algorithms (DSA) in Java to improve problem-solving skills
-     </li>
-   </ul>
-   <h2>
-      📫 Connect with Me:
-   </h2>
-   <span><a href=" linkedin.com/in/subhajit-shaw-56610b208"> linkedin</a></span>
-   
-   ## 🔧 Technologies & Tools
+<h1 align="center">
+  Hi I'm Subhajit Shaw
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+</h1>
 
-**Programming Languages:**
+<p align="center">
+  <a href="https://github.com/lucifer-990"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFBF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Lifelong+Learner"></a>
+</p>
 
-![Html](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
-![Css](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=6aa6f8)
-![javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
-   <p>Let's connect and collaborate on exciting projects! 🚀</p>
-    
-    
 
-   
-       
-    
-    
+### 🧑‍💻 About Me:
+-  I’m currently studying at **Maulana Abul Kalam Azad University of Technology, West Bengal** 
+-  Ask me about **Web development**, **DSA**, and **python**  
+-  Reach out to me at: **subhajitshaw16@gmail.com**  
+-  [LinkedIn](https://linkedin.com/in/subhajit-shaw-56610b208) | [Portfolio](https://portfolio-bay-one-88.vercel.app)
 
-<!--
-**lucifer-990/lucifer-990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack:
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucifer-990&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lucifer-990&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer-990&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
+
+###  GitHub Contribution Snake:
+<p align="center">
+  <img src="https://github.com/Subhajit-Shaw/Subhajit-Shaw/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+###  Fun Fact:
+>  I break things to learn how to build better.  
+>  Coding is my superpower, and Stack Overflow is my sidekick.
+
+
+
