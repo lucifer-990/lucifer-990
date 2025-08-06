@@ -7,6 +7,15 @@
   <a href="https://github.com/lucifer-990"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFBF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Lifelong+Learner"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucifer-990&label=Visitors&color=0e75b6&style=flat" alt="lucifer-990" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Theme-Dark-informational?style=flat&logo=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Theme-Light-informational?style=flat&logo=github" />
+    <img alt="Theme Badge" src="https://img.shields.io/badge/Theme-Auto-informational?style=flat&logo=github" />
+  </picture>
+</p>
+
 
 ### 🧑‍💻 About Me:
 -  I’m currently studying at **Maulana Abul Kalam Azad University of Technology, West Bengal** 
@@ -37,6 +46,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer-990&layout=compact&theme=tokyonight" width="47%" />
 </p>
+
 
 
 ###  GitHub Contribution Snake:
