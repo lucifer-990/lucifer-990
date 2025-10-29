@@ -1,8 +1,6 @@
-<div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Subhajit%20Shaw&fontAlignY=81&fontColor=668CFF)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=6,11,20&text=Subhajit%20Shaw&fontAlignY=81&fontColor=668CFF)
 
-<div/>
 <!-- <h1 align="center">
   Hi I'm Subhajit Shaw
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
