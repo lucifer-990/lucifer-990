@@ -1,5 +1,5 @@
   
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Subhajit%20Shaw&fontAlign=50&fontAlignY=50&textBg=false&fontColor=03FFD1)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Subhajit%20Shaw&fontAlign=50&fontAlignY=50&textBg=false&fontColor=44C5FF)
 
 <!-- <h1 align="center">
   Hi I'm Subhajit Shaw
