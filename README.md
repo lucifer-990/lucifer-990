@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:0AEFFF,100:000814&height=200&section=header&text=Subhajit%20Shaw&fontSize=48&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:0AEFFF,100:000814&height=300&section=header&text=Subhajit%20Shaw&fontSize=48&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn"/>
 
 <img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="260" style="mix-blend-mode: multiply;"/>
 
