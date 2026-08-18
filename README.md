@@ -38,7 +38,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Studying **B.Tech IT** at Maulana Abul Kalam Azad University of Technology, West Bengal
-- 💻 Building across the stack — **MERN**, **React Native / Expo**, and exploring **Cloud & DevOps** (AWS, Docker)
+- 💻 Building across the stack — **MERN**, **React Native**, and exploring **Cloud & DevOps** (AWS, Docker)
 - 🛡️ **LeetCode Knight** — chipping away at DSA problems for fun (and sanity)
 - 🐧 Daily driver: **Parrot OS**
 - 📫 Reach me at **subhajitshaw16@gmail.com**
@@ -148,7 +148,7 @@ coffee is already the newest version (necessary).
 
 <br/>
 
-*Open to collabs on full-stack web apps, React Native/Expo builds, and anything cloud-shaped.*
+*Open to collabs on full-stack web apps, React Native builds, and anything cloud-shaped.*
 
 </div>
 
