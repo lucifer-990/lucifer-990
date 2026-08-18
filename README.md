@@ -4,7 +4,7 @@
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2200&pause=900&color=0AEFFF&background=00000000&center=false&vCenter=true&width=560&height=65&lines=Full-Stack+Developer;React+Native+%2F+Expo+Developer;Cloud+%26+DevOps+Explorer;Competitive+Programmer" alt="Role Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2200&pause=900&color=0AEFFF&background=00000000&center=false&vCenter=true&width=560&height=65&lines=Full-Stack+Developer;React+Native+Developer;Cloud+%26+DevOps+Explorer;Competitive+Programmer" alt="Role Typing"/>
 
 <br/>
 
