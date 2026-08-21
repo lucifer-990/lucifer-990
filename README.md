@@ -87,10 +87,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucifer-990&show_icons=true&theme=react&hide_border=false&bg_color=0D1117&border_color=0AEFFF&title_color=0AEFFF&icon_color=0057FF&text_color=c9d1d9" width="47%" />
-<img src="https://streak-stats.demolab.com?user=lucifer-990&theme=dark&background=0D1117&border=0AEFFF&stroke=0AEFFF&ring=0057FF&fire=0AEFFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0AEFFF&sideLabels=0057FF&dates=888888&font=Fira+Code" width="47%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer-990&layout=compact&theme=react&hide_border=false&bg_color=0D1117&border_color=0AEFFF&title_color=0AEFFF&text_color=c9d1d9" width="60%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucifer-990&theme=tokyonight" />
 
 </div>
 
