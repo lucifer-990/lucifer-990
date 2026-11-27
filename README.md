@@ -26,7 +26,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-shaw-56610b208)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=0AEFFF)](https://portfolio-bay-one-88.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=0AEFFF)](https://subhajit-shaw.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight-000000?style=for-the-badge&logo=leetcode&logoColor=0AEFFF)](https://leetcode.com/subhajit16)
 [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=0AEFFF)](https://codeforces.com/profile/subhajitshaw16)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=0AEFFF)](mailto:subhajitshaw16@gmail.com)
